@@ -1,0 +1,9 @@
+# Log of long‑running build/index jobs
+build_progress.txt
+
+# Local Chroma database files
+chroma_db/
+
+# Compiled Python bytecode
+__pycache__/
+
